@@ -1,7 +1,13 @@
 {
-  "script_url": "https://raw.githubusercontent.com/Jake-brock23/FluxusZ/refs/heads/main/FluxusZ%20key.lua",
-  "disc_invite": "https://discord.gg/fluxus",
-  "versionName": "3.0.0",
-  "Keysystem": false,
-  "Enabled": true,
+  "android": {
+    "global": "",
+    "vng": ""
+  },
+  "ios": {
+    "ipa": "",
+    "vng_ipa": ""
+  },
+  "windows": {
+    "legacy": ""
+  }
 }
