@@ -1,13 +1,13 @@
 {
   "android": {
-    "global": "https://discord.gg/fluxus",
+    "global": "",
     "vng": ""
   },
   "ios": {
-    "ipa": "asasas",
-    "vng_ipa": "asasa"
+    "ipa": "",
+    "vng_ipa": ""
   },
   "windows": {
-    "legacy": "asasas"
+    "legacy": ""
   }
 }
